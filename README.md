@@ -3,7 +3,7 @@
 
 AI 전문가를 위한 Python으로 시작하는 베이지안 뉴럴 네트워크 (Bayesian Neural Network) 실전 가이드
 
-![ex_screenshot](./AI Master-베이지안 뉴럴네트워크 with Python.png)
+![ex_screenshot](AI Master-베이지안 뉴럴네트워크 with Python.png)
 
 ## 책 소개
 
