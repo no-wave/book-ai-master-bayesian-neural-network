@@ -31,7 +31,6 @@ Table of Contents (목차)
 
 6장. BNN: Pyro 라이브러리 활용
 
----
 
 ## E-Book 구매:
 - Yes24: https://www.yes24.com/product/goods/144165727
@@ -39,4 +38,5 @@ Table of Contents (목차)
 - 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361583250
 
 
-## Github 코드: https://github.com/no-wave/book-ai-master-bayesian-neural-network
+## Github 코드: 
+https://github.com/no-wave/book-ai-master-bayesian-neural-network
