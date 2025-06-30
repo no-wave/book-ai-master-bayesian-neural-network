@@ -33,9 +33,10 @@ Table of Contents (목차)
 
 ---
 
-#### E-Book 구매: https://shorturl.at/qC0d6
+### E-Book 구매:
 - Yes24: https://www.yes24.com/product/goods/144165727
 - 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011269474
 - 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361583250
 
-#### Github 코드: https://github.com/no-wave/book-ai-master-bayesian-neural-network
+
+### Github 코드: https://github.com/no-wave/book-ai-master-bayesian-neural-network
